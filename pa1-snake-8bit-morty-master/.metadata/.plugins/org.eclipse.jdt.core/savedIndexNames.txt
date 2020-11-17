@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Ricardo\Downloads\pa1-snake-8bit-morty-master\.metadata\.plugins\org.eclipse.jdt.core
+3191052316.index
+1032740266.index
+2193198218.index
